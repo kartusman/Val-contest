@@ -7,7 +7,6 @@
 sudo apt update && sudo apt upgrade -y && \
 sudo apt install curl tar wget clang pkg-config libssl-dev jq build-essential bsdmainutils git make ncdu gcc git jq chrony liblz4-tool -y
 ```
-
 **Install Go 1.18.3**
 ```bash
 wget https://golang.org/dl/go1.18.3.linux-amd64.tar.gz; \
