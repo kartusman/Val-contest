@@ -65,7 +65,3 @@ Be sure to save your priv_validator_key.json
 ```bash
 /.haqqd/config/priv_validator_key.json
 ```
-
-
-
-
